@@ -1,5 +1,11 @@
 # my-recontoolkit
 # 🔍 My Recon Toolkit
+# 🔍 My Recon Toolkit
+
+Hey there! I’m Gladwell, a beginner penetration tester learning ethical hacking from the ground up. This is my personal recon toolkit — a Bash script and cheatsheet I’m building as I grow my skills.
+
+This project is part of my learning journey through platforms like TryHackMe, HackTheBox, and YouTube creators like The Cyber Mentor, STÖK, and NahamSec.
+
 
 Welcome to my personal reconnaissance toolkit!  
 This repo includes scripts, notes, and commands I use as I learn ethical hacking and penetration testing — one scan at a time.
